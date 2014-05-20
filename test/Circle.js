@@ -1,6 +1,6 @@
 /*buildjs
  * @def VERSION "1.0.0"
- * @def AUTHOR "Mark Linus"
+ * @def AUTHOR "Danilo Valente"
  */
 var Point = /*buildjs @inc Point.js*/
 var Circle = function (x, y) {
