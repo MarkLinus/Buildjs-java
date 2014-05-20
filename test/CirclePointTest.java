@@ -8,7 +8,7 @@ public class CirclePointTest {
 	public static void main(String[] args) throws Exception {
 		String js = "/*buildjs\n" +
 			" * @def VERSION \"1.0.0\"\n" +
-			" * @def AUTHOR \"Mark Linus\"\n" +
+			" * @def AUTHOR \"Danilo Valente\"\n" +
 			" */\n" +
 			"var Point = /*buildjs @inc Point.js*/\n" +
 			"var Circle = function (x, y) {\n" +
